@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **CareAnywhere**
 
-- 🌱 I’m currently learning **NodeJS, React**
-
 - 💬 Ask me about **Android, Web Development, Problem Solving**
 
 - 📫 How to reach me **guptadinkar850@gmail.com** <br><br><br><br>
